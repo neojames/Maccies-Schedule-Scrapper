@@ -1,4 +1,4 @@
 # Scrap.py
 # Main program logic; Scraps scheduling data from peoplestuffuk.com, checks to see if it has been updated, and if it has
-# updates a shared calender. Program logic file.
+# updates a shared calender. Publishes scrapped CSV onto calenders.
 # Published under the Apache License 2.0, maintained by James Bolton (james@neojames.me)
