@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 
 from mechanicalsoup import *
 
+# Temporary method for acquiring credentials, more secure method in scrap.py
 parser = argparse.ArgumentParser()
 parser.add_argument("username")
 parser.add_argument("password")
